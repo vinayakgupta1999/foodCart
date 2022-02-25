@@ -1,0 +1,108 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "imgsrc": "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+            "name": "Pizza",
+            "price": "500"
+            
+          },
+          {
+            "id": 2,
+            "imgsrc": "https://images.pexels.com/photos/5409010/pexels-photo-5409010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "Momos",
+            "price": "100"
+          },
+          {
+            "id": 3,
+            "imgsrc": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "Paneer tikka",
+            "price": "150"
+          },
+          {
+            "id": 4,
+            "imgsrc": "https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "french fries",
+            "price": 100
+          },
+          {
+            "id": 5,
+            "imgsrc": "https://images.pexels.com/photos/2983098/pexels-photo-2983098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "burger",
+            "price": "50"
+          },
+          {
+            "id": 6,
+            "imgsrc": "https://images.pexels.com/photos/3023479/pexels-photo-3023479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "Hot Dog",
+            "price": "80"
+          },
+          {
+            "id": 7,
+            "imgsrc": "https://images.pexels.com/photos/568805/pexels-photo-568805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "Patato Chips",
+            "price": "150"
+          },
+          {
+            "id": 8,
+            "imgsrc": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?cs=srgb&dl=pexels-saveurs-secretes-5560763.jpg&fm=jpg",
+            "name": "Dosa",
+            "price": "250"
+          },
+          {
+            "id": 9,
+            "imgsrc": "https://images.pexels.com/photos/2955820/pexels-photo-2955820.jpeg?cs=srgb&dl=pexels-nishant-aneja-2955820.jpg&fm=jpg",
+            "name": "Donuts",
+            "price": "150"
+          },
+          {
+            "id": 10,
+            "imgsrc": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?cs=srgb&dl=pexels-ash-376464.jpg&fm=jpg",
+            "name": "Pan Cake",
+            "price": "150"
+          },
+          
+          {
+            "id": 11,
+            "imgsrc": "https://images.pexels.com/photos/9646843/pexels-photo-9646843.jpeg?cs=srgb&dl=pexels-mouktik-joshi-9646843.jpg&fm=jpg",
+            "name": "Tandoori Momos",
+            "price": "150"
+          },
+          {
+            "id": 12,
+            "imgsrc": "https://static.toiimg.com/thumb/52416693.cms?imgsize=789478&width=509&height=340",
+            "name": "Pav Bhaji",
+            "price": "150"
+          },
+          {
+            "id": 13,
+            "imgsrc": "https://images.pexels.com/photos/1460872/pexels-photo-1460872.jpeg?cs=srgb&dl=pexels-engin-akyurt-1460872.jpg&fm=jpg",
+            "name": "Pasta",
+            "price": "150"
+          },
+          {
+            "id": 14,
+            "imgsrc" : "https://media.istockphoto.com/photos/freshly-prepared-veg-manchurian-with-a-bowl-of-fried-rice-picture-id1208083887?k=20&m=1208083887&s=612x612&w=0&h=8wXIBoS1JMyo7C-S68y-EssSB7CpVpPxfVFXlXq4uEc=",
+            "name": "Manchurian",
+            "price": "150"
+          },
+          {
+            "id": 15,
+            "imgsrc": "https://images.pexels.com/photos/2615323/pexels-photo-2615323.jpeg?cs=srgb&dl=pexels-ekrulila-2615323.jpg&fm=jpg",
+            "name": "Cold Coffee",
+            "price": 150
+          },
+          {
+            "id": 16,
+            "imgsrc": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/Veggie-Spring-Rolls.jpg",
+            "name": "Spring Roll",
+            "price": "150"
+          },
+          {
+            "id": 17,
+            "imgsrc": "https://images.pexels.com/photos/568805/pexels-photo-568805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "name": "Patato Chips",
+            "price": "150"
+          }
+    ]
+}
